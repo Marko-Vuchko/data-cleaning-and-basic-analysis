@@ -1,0 +1,29 @@
+﻿Unique Activity values before standardization:
+Activity
+cycling     87
+running     79
+walking     78
+swimming    74
+yoga        72
+gym         72
+walk         6
+swimm        3
+swim         2
+Name: count, dtype: int64
+
+Unique Activity values after standardization:
+Activity
+cycling     87
+walking     84
+swimming    79
+running     79
+yoga        72
+gym         72
+Name: count, dtype: int64
+
+Average activity duration: 64.45 minutes
+Most common post-activity mood: Energetic
+Calories standard deviation: 233.15 kcal
+
+Age range for middle 50% of users: 30 - 54 years
+Interquartile range: 24 years
